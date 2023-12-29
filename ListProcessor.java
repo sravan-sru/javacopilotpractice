@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.List;
 
-public class ListProcessor {
+public class ListProcessor{
     public static void main(String[] args) {
         List<String> words = new ArrayList<>();
         words.add("apple");
